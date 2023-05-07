@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:03,279
+Before we jump into the data analysis process,
+
+2
+00:00:03,279 --> 00:00:07,139
+let's talk about some of the kinds of problems you might solve as a data analyst.
+
+3
+00:00:07,139 --> 00:00:09,744
+When many people hear the term data analyst,
+
+4
+00:00:09,744 --> 00:00:14,070
+they picture someone who works at a tech company and probably in Silicon Valley.
+
+5
+00:00:14,070 --> 00:00:17,765
+Many data analysts do in fact work at tech companies.
+
+6
+00:00:17,765 --> 00:00:20,550
+For example, Netflix uses data analysis to
+
+7
+00:00:20,550 --> 00:00:24,600
+provide personalized movie recommendations for its users.
+
+8
+00:00:24,600 --> 00:00:27,820
+Facebook uses it in its news feed ranking algorithm.
+
+9
+00:00:27,820 --> 00:00:35,179
+And OkCupid uses it to predict which people are likely to be good romantic matches.
+
+10
+00:00:35,179 --> 00:00:37,920
+In addition to building these kinds of systems,
+
+11
+00:00:37,920 --> 00:00:40,740
+many companies also use data analysis to
+
+12
+00:00:40,740 --> 00:00:44,300
+publish papers or write blog posts about their findings.
+
+13
+00:00:44,299 --> 00:00:50,234
+For example, Facebook has studied the ideological diversity of people's political posts.
+
+14
+00:00:50,234 --> 00:00:51,899
+They found that when posts appear on
+
+15
+00:00:51,899 --> 00:00:54,464
+people's news feed written from a different perspective,
+
+16
+00:00:54,465 --> 00:00:57,590
+users are less likely to click on those posts.
+
+17
+00:00:57,590 --> 00:00:59,805
+OkCupid wrote a blog post about
+
+18
+00:00:59,804 --> 00:01:03,570
+what are the best questions to ask someone on a first date.
+
+19
+00:01:03,570 --> 00:01:05,909
+Did you know that long term couples are very likely
+
+20
+00:01:05,909 --> 00:01:08,700
+to agree about whether they like horror movies?
+
+21
+00:01:08,700 --> 00:01:11,305
+Data analysts don't just work at tech companies though.
+
+22
+00:01:11,305 --> 00:01:14,220
+Wal-Mart looks through their purchase records and people's posts on
+
+23
+00:01:14,219 --> 00:01:17,980
+social media in order to figure out what to stock in their stores.
+
+24
+00:01:17,980 --> 00:01:22,890
+Apparently, Strawberry Pop-Tarts are more likely to sell right before a hurricane.
+
+25
+00:01:22,890 --> 00:01:26,840
+Bill James is famous for applying data analysis to baseball.
+
+26
+00:01:26,840 --> 00:01:28,980
+He used it to understand who the top performers
+
+27
+00:01:28,980 --> 00:01:32,234
+are and how to best predict future performance.
+
+28
+00:01:32,234 --> 00:01:35,909
+And pharmaceutical companies have started to use machine learning to
+
+29
+00:01:35,909 --> 00:01:40,170
+predict which chemical compounds are most likely to make effective drugs.
+
+30
+00:01:40,170 --> 00:01:43,320
+Using this, they can make better decisions about which compounds are
+
+31
+00:01:43,319 --> 00:01:47,904
+likely to be a good use of the resources involved in running a clinical trial.
+
+32
+00:01:47,905 --> 00:01:50,400
+If you'd like to learn more about any of these applications,
+
+33
+00:01:50,400 --> 00:01:52,130
+check out the links in the instructor notes.
+

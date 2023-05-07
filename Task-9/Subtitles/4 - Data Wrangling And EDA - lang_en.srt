@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:05,615
+Wrangling and EDA are sometimes used anonymously because their purposes often overlap.
+
+2
+00:00:05,615 --> 00:00:09,285
+In this course, when I say wrangling it means you'll be gathering,
+
+3
+00:00:09,285 --> 00:00:11,419
+assessing, and cleaning your data,
+
+4
+00:00:11,419 --> 00:00:15,824
+but the modifications you make when cleaning the dataset won't make your analysis,
+
+5
+00:00:15,824 --> 00:00:19,945
+visualizations, or models better, they just make them work.
+
+6
+00:00:19,945 --> 00:00:23,789
+Alternatively, EDA means you'll be exploring and augmenting
+
+7
+00:00:23,789 --> 00:00:29,730
+your data to maximize the potential of your analysis, visualizations, and models.
+
+8
+00:00:29,730 --> 00:00:33,674
+One example is engineering new features or moving outliers,
+
+9
+00:00:33,674 --> 00:00:36,549
+they can make visualisations more impactful,
+
+10
+00:00:36,549 --> 00:00:39,839
+for instance, removing outliers to zoom into the heart of
+
+11
+00:00:39,840 --> 00:00:44,565
+a distribution or they can improve a models R-squared value.
+
+12
+00:00:44,564 --> 00:00:48,030
+We'll dive into this in more detail later in the class,
+
+13
+00:00:48,030 --> 00:00:50,490
+but we'll take a first pass now.
+
+14
+00:00:50,490 --> 00:00:54,285
+And remember, don't worry if you don't get everything right away.
+
+15
+00:00:54,284 --> 00:00:57,000
+We have entire courses that cover each of these steps.
+

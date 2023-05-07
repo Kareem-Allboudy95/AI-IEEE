@@ -1,0 +1,156 @@
+1
+00:00:00,000 --> 00:00:01,784
+Let's start with gathering.
+
+2
+00:00:01,784 --> 00:00:05,304
+Data acquisition can happen in a variety of ways.
+
+3
+00:00:05,304 --> 00:00:06,899
+In this case, you already acquired
+
+4
+00:00:06,900 --> 00:00:09,660
+the data by downloading some files that were available.
+
+5
+00:00:09,660 --> 00:00:15,160
+In other cases, you might need to get the data from an API or scrape it from a web page.
+
+6
+00:00:15,160 --> 00:00:16,859
+In many companies, they might have
+
+7
+00:00:16,859 --> 00:00:21,369
+an existing database from which you can pull data and answer questions.
+
+8
+00:00:21,370 --> 00:00:25,420
+You'll also often need to combine data from multiple different formats.
+
+9
+00:00:25,420 --> 00:00:28,335
+It's okay if some of these terms are unfamiliar to you,
+
+10
+00:00:28,335 --> 00:00:30,870
+they'll be covered in more depth in our data
+
+11
+00:00:30,870 --> 00:00:34,164
+wrangling course which is linked in the instructor notes.
+
+12
+00:00:34,164 --> 00:00:37,859
+The lesson on gathering data within that course is great if you'd
+
+13
+00:00:37,859 --> 00:00:41,700
+like to learn more about how to get data from a variety of sources.
+
+14
+00:00:41,700 --> 00:00:47,240
+Your files are in a format called CSV which stands for a comma separated values.
+
+15
+00:00:47,240 --> 00:00:49,950
+A CSV file is a text file.
+
+16
+00:00:49,950 --> 00:00:53,135
+It's similar to a spreadsheet in terms of its tabular structure.
+
+17
+00:00:53,134 --> 00:00:56,534
+But if you've ever seen IF statements or other functions in your spreadsheets,
+
+18
+00:00:56,534 --> 00:00:58,859
+this isn't possible in CSV files.
+
+19
+00:00:58,859 --> 00:01:00,964
+They hold only the raw data.
+
+20
+00:01:00,965 --> 00:01:05,945
+The contents of a CSV file are also very easy to process manually using code.
+
+21
+00:01:05,944 --> 00:01:08,894
+Unlike for example, an XLSX file,
+
+22
+00:01:08,894 --> 00:01:12,089
+which is the format used by Microsoft Excel.
+
+23
+00:01:12,090 --> 00:01:15,290
+Let's take a look at one of your files which contains cancer data.
+
+24
+00:01:15,290 --> 00:01:18,180
+Here's what the file looks like in Google Spreadsheets.
+
+25
+00:01:18,180 --> 00:01:19,860
+There's a row for each time a tumor was
+
+26
+00:01:19,859 --> 00:01:22,965
+extracted and columns for different pieces of information,
+
+27
+00:01:22,965 --> 00:01:25,094
+such as the ID, diagnosis,
+
+28
+00:01:25,094 --> 00:01:28,709
+radius, texture, area, and smoothness.
+
+29
+00:01:28,709 --> 00:01:32,125
+Now, here's what the file looks like if you open it in a plain text editor.
+
+30
+00:01:32,125 --> 00:01:34,605
+A text editor is a program like Notepad,
+
+31
+00:01:34,605 --> 00:01:38,549
+Sublime or Adam, that shows exactly what's present in the file.
+
+32
+00:01:38,549 --> 00:01:42,909
+As you can see, the actual content of the file are very simple.
+
+33
+00:01:42,909 --> 00:01:48,479
+The header row from the spreadsheet is present as the first line of the CSV file.
+
+34
+00:01:48,480 --> 00:01:53,700
+The second row of the spreadsheet is the second line of the CSV file and so on.
+
+35
+00:01:53,700 --> 00:01:57,210
+Within each row, you'll see the first cell followed by a comma,
+
+36
+00:01:57,209 --> 00:01:58,754
+followed by the second cell,
+
+37
+00:01:58,754 --> 00:02:01,469
+followed by a comma and so on.
+
+38
+00:02:01,469 --> 00:02:05,549
+This makes CSVs very easy to process in programming languages like Python
+
+39
+00:02:05,549 --> 00:02:10,000
+and packages such as Pandas have specific functions for loading data from CSVs.
+

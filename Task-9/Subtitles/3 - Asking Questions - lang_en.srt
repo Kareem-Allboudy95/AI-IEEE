@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:05,054
+Let's get started with the first step of the data analysis process: asking questions.
+
+2
+00:00:05,054 --> 00:00:06,990
+If you remember from the overview video,
+
+3
+00:00:06,990 --> 00:00:08,640
+sometimes we ask our questions
+
+4
+00:00:08,640 --> 00:00:12,429
+first and use them to direct what types of data we'll get later.
+
+5
+00:00:12,429 --> 00:00:16,094
+Other times, we'll get our data first and ask questions based on it.
+
+6
+00:00:16,094 --> 00:00:20,535
+Here, we're going to practice creating questions with the real data set.
+
+7
+00:00:20,535 --> 00:00:25,289
+This is data from the University of Wisconsin General Surgery Lab and the measurements of
+
+8
+00:00:25,289 --> 00:00:27,899
+tumors extracted during biopsies along with
+
+9
+00:00:27,899 --> 00:00:31,254
+the designation of whether or not the tumor was cancerous.
+
+10
+00:00:31,254 --> 00:00:36,369
+A natural question would be: how do we know if a tumor is cancerous?
+
+11
+00:00:36,369 --> 00:00:38,784
+This is a pretty broad question.
+
+12
+00:00:38,784 --> 00:00:43,134
+It will be helpful to formulate intermediate questions to guide our analysis.
+
+13
+00:00:43,134 --> 00:00:44,780
+Here is the Notebook I made,
+
+14
+00:00:44,780 --> 00:00:46,945
+which you'll be working through later.
+
+15
+00:00:46,945 --> 00:00:50,299
+Take a closer look at the features and think about questions that would help
+
+16
+00:00:50,299 --> 00:00:54,704
+you learn more about these features and their relationships in the data.
+
+17
+00:00:54,704 --> 00:00:56,454
+One example would be,
+
+18
+00:00:56,454 --> 00:01:00,079
+does the size of the tumor determine its malignancy?
+
+19
+00:01:00,079 --> 00:01:04,185
+You'll find out more information about this data set in the instructor notes below.
+
+20
+00:01:04,185 --> 00:01:06,960
+What additional questions you have about the data?
+
+21
+00:01:06,959 --> 00:01:09,219
+How do you go about analyzing the data?
+
